@@ -1,1 +1,4 @@
 Hola, somos la comisión 42.
+
+
+Tenemos clase martes y jueves.
